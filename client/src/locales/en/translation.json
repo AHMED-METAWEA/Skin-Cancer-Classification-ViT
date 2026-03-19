@@ -1,0 +1,123 @@
+{
+    "welcome": "Welcome to Skin Vision",
+    "login": "Login",
+    "signup": "Sign Up",
+    "welcome_to_skin_vision": "Welcome to Safe Skin",
+    "detect_skin_cancer_early": "Detect Skin Cancer Early",
+    "ai_tool_description": "Our AI-powered tool helps you quickly analyze skin lesions with high accuracy.",
+    "start_analysis": "Start Analysis",
+    "how_skin_vision_can_help": "How Safe Skin Can Help You",
+    "home_benefits": "Early detection of skin cancer saves lives. Our app helps you detect it easily.",
+    "upload_detect": "Upload/Detect",
+    "upload_detect_desc": "Upload an image of your skin lesion for AI analysis.",
+    "find_doctor": "Find Nearest Skin Doctor",
+    "tips": "How to Avoid Skin Cancer & Tips","detect": "Detect",
+    "tips_title": "Tips to Avoid Skin Cancer",
+    "result_message": "Result: {{result}}",
+    "detecting": "Detecting...",
+    "error_detect": "An error occurred during detection. Please try again.",
+    "find_doctor_desc": "Locate qualified dermatologists near you.",
+    "prevention_tips": "Prevention Tips",
+    "prevention_tips_desc": "Learn how to protect your skin and prevent cancer.",
+    "ask_skinai":"Ask Skinai",
+    "ask_skinai_desc":"Our Skinai bot can help you to answer any questions you have",
+    "hello_i_am_skinai":"Hello I'm Skinai, How can i help you ?",
+    "type_your_message":"Type your message here",
+    "why_choose_skin_vision": "Why Choose Safe Skin?",
+    "advanced_ai_analysis": "Advanced AI Analysis",
+    "advanced_ai_analysis_desc": "Utilizing cutting-edge artificial intelligence for reliable skin lesion analysis.",
+    "secure_data_handling": "Secure Data Handling",
+    "secure_data_handling_desc": "Your photos and data are kept confidential and secure.",
+    "educational_resources": "Educational Resources",
+    "educational_resources_desc": "Comprehensive tips and articles on skin health and prevention.",
+    "connect_with_experts": "Connect with Experts",
+    "connect_with_experts_desc": "Easy access to a network of qualified dermatologists.",
+    "find_nearest_doctors": "Find Nearest Doctors",
+    "find_nearest_doctors_desc": "Easily find the closest qualified dermatologists to your location.",
+    "protect_your_skin_title": "Protect Your Skin",
+    "protect_your_skin_desc": "Understanding and preventing skin cancer is vital for long-term health. Simple daily habits and awareness can make a significant difference in protecting your skin from harmful UV radiation and detecting potential issues early.",
+    "protect_your_skin_alt": "Image related to skin protection (e.g., sunscreen, hat)",
+    "prevention_strategies_title": "Prevention Strategies",
+    "prevention_tip1": "Apply broad-spectrum sunscreen with SPF 30 or higher daily, even on cloudy days.",
+    "prevention_tip2": "Wear protective clothing, including wide-brimmed hats and UV-blocking sunglasses.",
+    "prevention_tip3": "Seek shade during peak sun hours (typically 10 AM to 4 PM).",
+    "prevention_tip4": "Avoid tanning beds and artificial UV exposure.",
+    "prevention_tip5": "Perform regular self-examinations to check for new or changing skin lesions.",
+    "healthy_lifestyle_title": "Healthy Lifestyle & Skin",
+    "lifestyle_tip1": "Eat a balanced diet rich in antioxidants found in fruits and vegetables.",
+    "lifestyle_tip2": "Stay well-hydrated by drinking plenty of water.",
+    "lifestyle_tip3": "Limit processed foods and added sugars.",
+    "lifestyle_tip4": "Regular physical activity supports overall health and well-being.",
+    "symptom_relief_title": "Temporary Symptom Relief",
+    "symptom_tip1": "Apply a cool compress to minor areas of irritation.",
+    "symptom_tip2": "Use a gentle, fragrance-free moisturizing lotion for dryness.",
+    "symptom_tip3": "Avoid scratching or picking at affected areas.",
+    "importance_doctor_visits_title": "Importance of Doctor Visits",
+    "doctor_tip1": "Schedule regular check-ups with a qualified dermatologist, especially if you have risk factors.",
+    "doctor_tip2": "Promptly report any new, changing, or unusual moles, spots, or growths to your doctor.",
+    "doctor_tip3": "Early detection of skin cancer significantly improves treatment outcomes and prognosis.",
+    "disclaimer_title": "Disclaimer:",
+    "disclaimer_text": "These tips provide general information and do not constitute medical advice. They are not a substitute for professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition, especially if you notice any unusual or changing skin symptoms.",
+    "concerned_spot_title": "Concerned About a Spot?",
+    "concerned_spot_desc": "Don't wait. Schedule an appointment with a dermatologist today for a professional evaluation. Early detection is key.",
+    "find_a_doctor_button": "Find a Doctor",
+    "early_detection_title": "Early Detection Saves Lives",
+    "early_detection_desc_long": "Skin cancer is the most diagnosed cancer globally, but when caught early, survival rates exceed 99% for melanoma (ACS, 2023). Our clinically validated AI tool analyzes skin lesions in 10 seconds with above 96.95% diagnostic accuracy, helping you identify potential risks faster than waiting weeks for a dermatologist appointment.",
+    "photo_tip_alt": "How to take a good skin photo",
+    "photo_tips_title": "Tips for a Clear Photo Analysis",
+    "photo_tip_item1": "Use bright, natural lighting (e.g., near a window)",
+    "photo_tip_item2": "Avoid harsh flashes or yellow artificial light",
+    "photo_tip_item3": "Hold the camera steady or use a tripod/phone stand",
+    "photo_tip_item4": "Clean skin – remove makeup, lotions, or jewelry",
+    "photo_tip_item5": "Gently wipe away hair covering the lesion",
+    "photo_tip_item6": "Shoot directly perpendicular to the lesion",
+    "photo_tip_item7": "Avoid casting shadows on the lesion",
+    "upload_skin_lesion_photo_title": "Upload Skin Lesion Photo",
+    "upload_skin_lesion_photo_desc_short": "Drag & drop your image here, or click to select a file.",
+    "drag_drop_upload": "Drag and drop your image here, or click to upload (Max 10MB)",
+    "next_steps_title": "Next Steps After Analysis:",
+    "next_steps_description": "This analysis is AI-powered and not a substitute for professional medical diagnosis. It is crucial to consult a qualified dermatologist for an accurate diagnosis and appropriate treatment plan.",
+    "cancer_type": {
+    "benign_keratosis-like_lesions": "Benign keratosis-like lesion",
+    "basal_cell_carcinoma": "Basal cell carcinoma",
+    "actinic_keratoses": "Actinic keratosis",
+    "vascular_lesions": "Vascular lesion",
+    "melanocytic_nevi": "Melanocytic nevi",
+    "melanoma": "Melanoma",
+    "dermatofibroma": "Dermatofibroma",
+    "ask_chatbot": "Ask Skinai",
+    "chatbot_description": "Our Skinai bot can help you to answer any questions you have"
+  },
+
+  "advice": {
+    "actinic_keratoses": {
+      "title": "Actinic Keratoses (AKIEC) – Pre-cancerous lesions caused by sun damage",
+      "text": "Avoid direct sunlight, especially between 10 AM and 4 PM. Always wear broad-spectrum sunscreen (SPF 30+). Consult a dermatologist regularly, as actinic keratoses can develop into squamous cell carcinoma if untreated. Wear protective clothing, including hats and long sleeves, when outdoors."
+    },
+    "basal_cell_carcinoma": {
+      "title": "Basal Cell Carcinoma (BCC) – Most common type of skin cancer, usually slow-growing",
+      "text": "Seek prompt medical evaluation: Basal cell carcinoma rarely spreads but needs surgical removal or treatment. Do not ignore new or changing skin lesions, even if they seem painless. Follow-up is essential: Once treated, regular skin checks are necessary to prevent recurrence."
+    },
+    "benign_keratosis-like_lesions": {
+      "title": "Benign Keratosis-like Lesions (BKL) – Non-cancerous growths, such as seborrheic keratosis",
+      "text": "Generally harmless, but if the lesion changes in shape, size, or color, consult a dermatologist. Avoid unnecessary skin trauma like scratching or picking at the lesion to prevent irritation. Routine checkups are still recommended to differentiate from more serious conditions."
+    },
+    "dermatofibroma": {
+      "title": "Dermatofibroma (DF) – Benign skin growth usually caused by minor injury",
+      "text": "No treatment is usually needed unless it becomes painful or bothersome. Monitor the lesion for any changes, but dermatofibromas rarely turn malignant. Avoid shaving or friction over the lesion to prevent irritation."
+    },
+    "melanocytic_nevi": {
+      "title": "Melanocytic Nevi (NV) – Common moles, generally benign",
+      "text": "Track your moles using the ABCDE rule (Asymmetry, Border, Color, Diameter, Evolution). Avoid excessive sun exposure, and always use sunscreen to prevent transformation into melanoma. Annual skin check-ups are recommended, especially if you have many moles."
+    },
+    "melanoma": {
+      "title": "Melanoma (MEL) – Most dangerous form of skin cancer",
+      "text": "Urgent medical attention is required. Melanoma can spread rapidly and early treatment is crucial. Do not delay biopsy or treatment if melanoma is suspected or confirmed. Schedule full-body skin exams regularly, especially if you have a family history of melanoma."
+    },
+    "vascular_lesions": {
+      "title": "Vascular Lesions (VASC) – Includes angiomas and hemangiomas, usually benign",
+      "text": "Most are harmless, but seek evaluation if they bleed, grow, or change. Laser treatments are available for cosmetic removal if desired. Observe for signs of complications, like pain or inflammation, especially in older patients."
+    }
+  }
+
+  }

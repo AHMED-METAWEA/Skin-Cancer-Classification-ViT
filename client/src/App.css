@@ -1,0 +1,64 @@
+body {
+  background: #f8fafc;
+  /* min-height: 100vh; */
+  /* background: url('/assets/bg1.jpg') center center / cover no-repeat fixed; */
+  font-family: 'Cairo', 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  direction: inherit;
+}
+
+.app-container {
+  max-width: 700px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #0001;
+  padding: 40px 32px;
+}
+
+nav {
+  margin-bottom: 24px;
+}
+
+nav a {
+  color: #2d6cdf;
+  text-decoration: none;
+  margin-right: 12px;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.lang-switch {
+  margin-bottom: 16px;
+}
+
+h1, h2 {
+  color: #1a237e;
+  margin-bottom: 12px;
+}
+
+button {
+  background: #2d6cdf;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  margin: 8px 8px 8px 0;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #1a237e;
+}
+
+@media (max-width: 600px) {
+  .app-container {
+    padding: 16px 4px;
+  }
+}
